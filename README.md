@@ -6,6 +6,19 @@ Download videos and audio from **YouTube, Facebook, and 1000+ other supported si
 
 ---
 
+
+
+<img width="1080" height="2376" alt="1" src="https://github.com/user-attachments/assets/f3a38736-45f7-4aa2-8b87-53a9fdecc8f8" />
+
+<img width="341" height="1280" alt="2" src="https://github.com/user-attachments/assets/f339c3de-06ee-44b2-a5d9-c31ee8b91dd4" />
+
+<img width="727" height="1600" alt="3" src="https://github.com/user-attachments/assets/84d57d96-17bb-4535-ba42-d2d8db62bed2" />
+
+
+
+
+
+
 ## Key Features
 
 - **Material You (Material 3) Design**:
