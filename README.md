@@ -6,7 +6,7 @@ Download videos and audio from **YouTube, Facebook, and 1000+ other supported si
 
 ---
 
-<img width="1440" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/44f118f9-934f-4a6d-a11a-f92bb3c5915c" />
+<img width="520" height="380" alt="photo-collage png" src="https://github.com/user-attachments/assets/44f118f9-934f-4a6d-a11a-f92bb3c5915c" />
 
 
 ## Key Features
