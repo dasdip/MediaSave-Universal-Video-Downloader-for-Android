@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaSave</string>
+    <string name="download_channel_name">Media Downloads</string>
+    <string name="download_channel_desc">Shows live progress for active yt-dlp and FFmpeg downloads</string>
+</resources>
